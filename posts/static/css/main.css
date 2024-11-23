@@ -1,0 +1,105 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+header {
+	background-color: black;
+	padding: 20px;
+}
+
+.nav-link{
+	color: aliceblue;
+	margin-left: 20PX;
+}
+
+h1{
+  margin: 20px;	
+}
+
+a{
+	text-decoration: none;
+	margin:20px;
+}
+
+.image{
+	width: 200px;
+}
+
+form{
+     margin-top: 100px;
+     margin: auto;
+     width: 50%;
+}
+
+.form-group{
+	margin-top: 10px;
+}
+
+.form-control{
+	width: 100%;
+	font-size: 20px;
+}
+
+.label{
+	margin-top: 20px;
+}
+
+.btn{
+	border: none;
+	background-color: black;
+	cursor: pointer;
+	color: wheat;
+	padding: 15px;
+
+}
+
+.link{
+	color: black;
+	text-decoration: dashed;
+}
+
+.error{
+	color: brown;
+	font-size: 12;
+}
+.alert{
+	padding: 20px;
+	background-color: greenyellow;
+	color: white;
+	text-align: center;
+}
+
+.alert-error{
+	padding: 20px;
+	background-color: rgb(250, 10, 10);
+	color: white;
+	text-align: center;
+}
+
+.pagination{
+	display: flex;
+         justify-content: space-between;
+	width: 60%;
+	margin: auto;
+	padding: 20px;
+}
+
+.image {
+	width: 400px;
+	height: 200px;
+}
+
+.post-content {
+	margin-top: 20px;
+}
+
+.posts {
+	width: auto;
+	margin: auto;
+	margin-top: 10px;
+	padding-left: 100px;
+}
+
